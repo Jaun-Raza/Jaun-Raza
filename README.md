@@ -1,16 +1,31 @@
-### Hi there 👋
+Hi , I'm Jaun Raza
+coding
+Jaun Raza
 
-<!--
-**Jaun-Raza/Jaun-Raza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Jaun Raza
+
+💫 About Me:
+🔭 I’m currently learning Data Structures & Algorithms
+
+🌱 I completed learning MERN Stack Web Development
+
+👨‍💻 All of my projects are available at neeraj542
+
+📫 How to reach me jaundev768@gmail.com
+
+😄 Pronouns: He/His
+
+🌐 Socials:
+[LinkedIn](https://www.linkedin.com/in/jaun-raza-104415280/)
+
+💻 Tech Stack:
+C C++ CSS3 HTML5 Java JavaScript MongoDB Firebase Bootstrap React Canva Figma Nodejs Expressjs 
+
+🏆 GitHub Trophies
+
+
+Jaun Raza's GitHub | Stats
+
+✍️ Random Dev Quote
