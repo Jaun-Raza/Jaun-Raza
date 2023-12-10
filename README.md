@@ -29,4 +29,6 @@ Successfully delivered diverse projects, including feature-rich e-commerce platf
 
 Certified for excellence in Full Stack Bootcamp on Udemy.
 
+![Certificate Udemy](https://github.com/Jaun-Raza/Jaun-Raza/assets/106108668/8739c476-62d3-43b0-acf9-51b0be5f0452)
+
 </div>
