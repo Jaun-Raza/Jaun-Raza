@@ -1,31 +1,32 @@
-Hi , I'm Jaun Raza
-coding
-Jaun Raza
+<div align="center">
 
+# Hey! 👋 I am Jaun Raza
 
+# 🚀 Jaun Raza - MERN Stack Developer
 
-Jaun Raza
+Passionate MERN Stack Developer with a flair for crafting innovative web applications. Specializing in MongoDB, Express.js, React.js, and Node.js, I deliver end-to-end solutions that are not only scalable but also high-performing.
 
-💫 About Me:
-🔭 I’m currently learning Data Structures & Algorithms
+## 🛠 Skills
 
-🌱 I completed learning MERN Stack Web Development
+<p align="center">
+  <img height="40" src="https://img.icons8.com/color/48/000000/html-5.png">&nbsp;&nbsp;
+  <img height="40" src="https://img.icons8.com/color/48/000000/css3.png">&nbsp;&nbsp;
+  <img height="40" src="https://img.icons8.com/color/48/000000/bootstrap.png">&nbsp;&nbsp;
+  <img height="40" src="https://img.icons8.com/color/48/000000/sass.png">&nbsp;&nbsp;
+  <img height="40" src="https://img.icons8.com/color/48/000000/javascript.png">&nbsp;&nbsp;
+  <img height="40" src="https://img.icons8.com/ios/50/000000/jquery.png">&nbsp;&nbsp;
+  <img height="40" src="https://img.icons8.com/color/48/000000/react-native.png">&nbsp;&nbsp;
+  <img height="40" src="https://img.icons8.com/color/48/000000/nodejs.png">&nbsp;&nbsp;
+  <img height="40" src="https://img.icons8.com/color/48/000000/firebase.png">&nbsp;&nbsp;
+  <img height="40" src="https://img.icons8.com/color/48/000000/mongodb.png">
+</p>
 
-👨‍💻 All of my projects are available at neeraj542
+## 📁 Experience
 
-📫 How to reach me jaundev768@gmail.com
+Successfully delivered diverse projects, including feature-rich e-commerce platforms and cutting-edge data visualization tools.
 
-😄 Pronouns: He/His
+## ⭐ Key Achievements
 
-🌐 Socials:
-[LinkedIn](https://www.linkedin.com/in/jaun-raza-104415280/)
+Certified for excellence in Full Stack Bootcamp on Udemy.
 
-💻 Tech Stack:
-C C++ CSS3 HTML5 Java JavaScript MongoDB Firebase Bootstrap React Canva Figma Nodejs Expressjs 
-
-🏆 GitHub Trophies
-
-
-Jaun Raza's GitHub | Stats
-
-✍️ Random Dev Quote
+</div>
