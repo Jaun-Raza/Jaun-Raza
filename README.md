@@ -24,4 +24,6 @@ Passionate MERN Stack Developer with a flair for crafting innovative web applica
 
 Certified for excellence in Full Stack Bootcamp on Udemy.
 
+![image](https://github.com/Jaun-Raza/Jaun-Raza/assets/106108668/6045bdc4-51a2-4a84-96a4-23f45efa390f)
+
 </div>
